@@ -1,0 +1,5 @@
+## Need to add all the libiraries which we need to use in this project
+## We can add versions also that will help to updatd the version from pypi.
+## To install all these libraries you need to use the this command.
+
+## pip install -r requirements.txt
